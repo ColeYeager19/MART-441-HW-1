@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+
+p {
+	font-size: 22px
+}
+
+.div {
+
+position: relative;
+
+width: 400px;
+
+}
+
+.image{
+
+width: 100%
+
+}
+
+.center {
+
+position: absolute;
+
+font-size: 120px;
+
+font-weight: bold;
+
+font-style: italic;
+
+color: black;
+
+top: 40%;
+
+left: 36%;
+
+}
+
+.container {
+  position: relative;
+}
+
+.text-block {
+  position: absolute;
+  margin-top: 10%;
+  left: 7%;
+  background-color: white;
+  color: black;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.containerB {
+  position: relative;
+}
+
+.text-blockB {
+  position: absolute;
+  margin-top: 10%;
+  left: 60%;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.containerC {
+  position: relative;
+}
+
+.text-blockC {
+  position: absolute;
+  bottom: 35%;
+  left: 7%;
+  background-color: white;
+  color: black;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.containerD {
+  position: relative;
+}
+
+.text-blockD {
+  position: absolute;
+  bottom: 10%;
+  left: 50%;
+  background-color: white;
+  color: black;
+  padding-left: 20px;
+  padding-right: 20px;
+}
